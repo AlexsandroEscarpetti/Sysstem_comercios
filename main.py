@@ -3,6 +3,9 @@ import tkinter as tk
 from PIL import ImageTk, Image
 
 
+
+
+
 def clientes__0():
     import codes.clientes
     codes.clientes.criar_janela_clientes()
