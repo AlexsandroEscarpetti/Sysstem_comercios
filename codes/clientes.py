@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import mysql.connector
 
+
 def obter_clientes():
     conexao = mysql.connector.connect(
         host='localhost',
